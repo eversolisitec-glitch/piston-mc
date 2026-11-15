@@ -1,0 +1,5 @@
+name: PistonGravedad
+version: '1.0'
+main: com.castros.pistongravedad.PistonGravedad
+api-version: '26.1'
+description: Los pistones pueden empujar hasta 70 bloques de arena o grava.
